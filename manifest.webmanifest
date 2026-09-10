@@ -1,0 +1,10 @@
+{
+  "name": "RollReady Wallpaper Roll Calculator",
+  "short_name": "RollReady",
+  "description": "Plan wallpaper rolls, pattern repeat waste and cuts privately in your browser.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f4ee",
+  "theme_color": "#173d3d",
+  "icons": []
+}
