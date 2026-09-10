@@ -12,6 +12,7 @@ const staticFiles = [
   'app.js',
   'calc.js',
   'styles.css',
+  'favicon.svg',
   'robots.txt',
   'sitemap.xml',
   'manifest.webmanifest',
